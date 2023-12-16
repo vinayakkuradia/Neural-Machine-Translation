@@ -43,7 +43,7 @@ Performance Metric scores:
 - Translation Error Rate: 58.815
 - Google BLEU Score: 0.311
 
-### On Test data:
+### On Validation data:
 - BLEU Score:  0.084
 - Meteor Score: 0.224
 - Rouge Score (rouge1): 0.0
@@ -51,7 +51,7 @@ Performance Metric scores:
 - Translation Error Rate: 83.763
 - Google BLEU Score: 0.133
 
-### On Validation data:
+### On Test data:
 - BLEU Score: 0.102
 - Meteor Score: 0.232
 - Rouge Score (rouge1): 0.0
