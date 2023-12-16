@@ -20,7 +20,7 @@ Training - Validation Loss Graph:
 ![Train-Validation-Loss-Graph](https://github.com/vinayakkuradia/Neural-Machine-Translation/assets/48391649/f12e0225-0580-4686-9d4c-47b515e28c94)
 
 
-Hyperparameters:
+Hyperparameters and Training results:
 ------------------------------------------------------
 - Units of LSTM: 640
 - Model optimizer: Root Mean Squared Propagation (RMSProp)
@@ -33,7 +33,7 @@ Hyperparameters:
 - Final Validation Value: 4.1791
 
 
-Metric scores:
+Performance Metric scores:
 ------------------------------------------------------
 ### On Training data: 
 - BLEU Score: 0.281
@@ -58,3 +58,5 @@ Metric scores:
 - Word Error Rate:  0.828
 - Translation Error Rate: 82.362
 - Google BLEU Score: 0.144
+
+Note: In the code, 'test data' and 'validation data' terms are interchanged, to correctly interpret the meaning, consider `test data` as `validation data`, and `validation data` as `test data`.
