@@ -25,10 +25,10 @@ Hyperparameters and Training results:
 - Units of LSTM: 640
 - Model optimizer: Root Mean Squared Propagation (RMSProp)
 - Loss: Categorical Crossentropy
-- Batch Size = 64
-- Max Epochs = 101
-- Early stopping = YES
-- Actual Epochs = 24
+- Batch Size: 64
+- Max Epochs: 101
+- Early stopping: YES
+- Actual Epochs: 24
 - Final Loss Value: 1.6718
 - Final Validation Value: 4.1791
 
@@ -46,7 +46,7 @@ Performance Metric scores:
 ### On Test data:
 - BLEU Score:  0.084
 - Meteor Score: 0.224
-- Rouge Score (rouge1): 'rouge1': 0.0
+- Rouge Score (rouge1): 0.0
 - Word Error Rate:  0.844
 - Translation Error Rate: 83.763
 - Google BLEU Score: 0.133
